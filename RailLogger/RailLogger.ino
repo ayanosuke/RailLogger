@@ -6,7 +6,7 @@
 //
 // 線路の電圧を波形化します
 //
-// Arduino NANO に SD1306 SPI 4pinバージョン(CSなし)を接続
+// Arduino NANO に SSD1306 SPI 4pinバージョン(CSなし)を接続
 //
 // ライブラリを管理から以下２つのライブラリをインストール
 // Adafruit GFX ライブラリを使用
